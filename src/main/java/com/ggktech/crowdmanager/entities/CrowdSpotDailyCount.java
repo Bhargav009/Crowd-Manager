@@ -1,7 +1,6 @@
 package com.ggktech.crowdmanager.entities;
 
 import javax.persistence.Entity;
-import javax.persistence.FetchType;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
@@ -13,7 +12,7 @@ public class CrowdSpotDailyCount extends BaseEntity {
 
 	int count;
 
-	@ManyToOne(fetch = FetchType.LAZY, optional = false)
+	@ManyToOne
 	@JoinColumn(name = "crowdSpot_id", nullable = false)
 	CrowdSpot crowdSpot;
 
