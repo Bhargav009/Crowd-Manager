@@ -1,0 +1,55 @@
+
+INSERT INTO `crowd_spot` VALUES (2,1,sysdate(),1,sysdate(),'Inorbit Mal','Inorbit_Mal',17.3850,78.4867,'Madhapur',20,10000,'ACTIVE');
+
+INSERT INTO `crowd_spot` VALUES (3,1,sysdate(),1,sysdate(),'Podium Mall','Podium_Mall',17.4002,78.4147,'Toli Chowki',27,1000,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (4,1,sysdate(),1,sysdate(),'Central Mall','Central_Mall',17.4362,78.4609,'Punjagutta',15,15000,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (5,1,sysdate(),1,sysdate(),'City Center Mall','City_Center_Mall',17.4149,78.4487,'Banjara Hills',30,20000,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (6,1,sysdate(),1,sysdate(),'Manjeera Mal','Manjeera_Mal',17.4900,78.3930,'kukatpally',10,10000,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (7,1,sysdate(),1,sysdate(),'NSL Centrum Mall','NSL_Centrum_Mall',17.4833, 78.3935,'KPHB',35,5000,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (8,1,sysdate(),1,sysdate(),'Sarath City Capital Mal','Sarath_City_Capital_Mal',17.4577,78.3639,'Gachibowli ',30,8000,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (9,1,sysdate(),1,sysdate(),'Heritage Fresh - Santosh Nagar','Heritage_Fresh_Santosh_Nagar',17.3511,78.5072,'Santosh Nagar',10,90,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (10,1,sysdate(),1,sysdate(),'Heritage Fresh','Heritage_Fresh',17.4170,78.4118,'ilm Nagar',8,60,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (11,1,sysdate(),1,sysdate(),'Balaji Grand Bazar','Balaji_Grand_Bazar',17.4056,78.4764,'Basheer Bagh,',12,40,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (12,1,sysdate(),1,sysdate(),'D-Mart Hyderguda','D-Mart_Hyderguda',17.3988,17.3988,'Hyderguda',25,200,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (13,1,sysdate(),1,sysdate(),'IKEA','IKEA',17.387140,78.491684,'Rai Durg',40,900,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (14,1,sysdate(),1,sysdate(),'Puma','Puma',17.3988,17.3988,'kukatpally',10,10000,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (15,1,sysdate(),1,sysdate(),'South India Shopping','South_India_Shopping',12.10000000,12.10000000,'Kothpet',10,1000,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (16,1,sysdate(),1,sysdate(),'Republic of Noodles','Republic_of_Noodles',17.4431,78.3765,'Mdhapur',35,200,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (17,1,sysdate(),1,sysdate(),'Sahib Barbeque','Sahib_Barbeque',17.4415,78.3762,'Mindspace',30,100,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (18,1,sysdate(),1,sysdate(),'Absolute Barbecue Jubilee Hills','Absolute_Barbecue_Jubilee_Hills',17.4383,78.3978,'Jubilee Hills',34,100,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (19,1,sysdate(),1,sysdate(),'Bawarchi Restaurant','Bawarchi_Restaurant',17.4026,78.4933,'RTC Cross Roads',13,90,'ACTIVE');
+
+
+INSERT INTO `crowd_spot` VALUES (20,1,sysdate(),1,sysdate(),'Chutneys','Chutneys',17.4296,78.4096,'Jubilee Hills',10,500,'ACTIVE');

@@ -13,7 +13,7 @@ public class CrowdSpotDailyCount extends BaseEntity {
 	int count;
 
 	@ManyToOne
-	@JoinColumn(name = "crowdSpot_id", nullable = false)
+	@JoinColumn(name = "crowdSpotId", nullable = false)
 	CrowdSpot crowdSpot;
 
 	public int getCount() {
