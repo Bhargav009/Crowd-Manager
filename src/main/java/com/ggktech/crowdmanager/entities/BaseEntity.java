@@ -30,7 +30,7 @@ public abstract class BaseEntity implements Serializable {
 	@CreatedDate
 	@Column(name = "addedDate")
 	@Temporal(TemporalType.TIMESTAMP)
-	private Date addedDateTime;
+	private Date addedDate;
 
 	@LastModifiedDate
 	@Column(name = "editedDate")
@@ -50,12 +50,12 @@ public abstract class BaseEntity implements Serializable {
 		this.id = id;
 	}
 
-	public Date getAddedDateTime() {
-		return addedDateTime;
+	public Date getAddedDate() {
+		return addedDate;
 	}
 
-	public void setAddedDateTime(Date addedDateTime) {
-		this.addedDateTime = addedDateTime;
+	public void setAddedDate(Date addedDate) {
+		this.addedDate = addedDate;
 	}
 
 	public Date getEditedDate() {
